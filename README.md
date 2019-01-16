@@ -6,13 +6,17 @@ please let us know.
 
 ## contents
 
-+ papers
-+ tutorials
-+ dataset
-+ competition
-+ blog
++ [papers](#papers)
++ [tutorials](#tutorials)
++ [dataset](#dataset)
++ [competition](#competition)
++ [blog](#blog)
 
 ### papers
+
+- **Classification**
+
+- **Prediction**/**Imputation**
 
 ### tutorials
 
@@ -25,5 +29,5 @@ please let us know.
 ## contributing
 
 If you are interested in contributing to this repo, you can just fire an issue
-or fork it annd make a pull request. You can refer to this [tutorial](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)If you have
+or fork it annd make a pull request. You can refer to this [lesson](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) If you have
 no idea of making a PR.
